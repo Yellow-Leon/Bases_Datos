@@ -1,5 +1,5 @@
 # Bases_Datos
-Descripcion del proyecto
+*Descripcion del proyecto pero en negrita esta vuelta*
 Aca podes ver [mis notas](/Directorio/Mis_Notas.md)
 
 ![Eee](ciberjak.png)
