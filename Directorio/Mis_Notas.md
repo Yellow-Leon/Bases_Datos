@@ -2,4 +2,4 @@
 
   Hola, esto es **NEGRITAS**
 
-  Puedes ir [al README principal](README.md)
+  Puedes ir [al README principal](Bases_Datos/README.md)
