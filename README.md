@@ -5,9 +5,9 @@ Descripcion del proyecto
 
 ## Seccion
 Una lista:
--Hola.
--Que tal.
--Algo mas.
+-  Hola.
+-  Que tal.
+-  Algo mas.
 
 Otra lista ordenada:
 1. Primer paso
